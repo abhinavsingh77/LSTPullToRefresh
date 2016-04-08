@@ -17,6 +17,7 @@
 		0F1321F91CB78036009161D5 /* MyRefreshView.m in Sources */ = {isa = PBXBuildFile; fileRef = 0F1321F81CB78036009161D5 /* MyRefreshView.m */; };
 		0F1321FC1CB7820D009161D5 /* MyTablePagination.m in Sources */ = {isa = PBXBuildFile; fileRef = 0F1321FB1CB7820D009161D5 /* MyTablePagination.m */; };
 		0F3839871CB7921C00C43A9E /* LSTTableViewPagination.m in Sources */ = {isa = PBXBuildFile; fileRef = 0F3839861CB7921C00C43A9E /* LSTTableViewPagination.m */; };
+		0F3839891CB7936F00C43A9E /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = 0F3839881CB7936F00C43A9E /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -38,6 +39,7 @@
 		0F1321FB1CB7820D009161D5 /* MyTablePagination.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MyTablePagination.m; sourceTree = "<group>"; };
 		0F3839851CB7921C00C43A9E /* LSTTableViewPagination.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LSTTableViewPagination.h; sourceTree = "<group>"; };
 		0F3839861CB7921C00C43A9E /* LSTTableViewPagination.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LSTTableViewPagination.m; sourceTree = "<group>"; };
+		0F3839881CB7936F00C43A9E /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -70,6 +72,7 @@
 		0F1321BC1CB76EB7009161D5 /* PulltoRefreshSample */ = {
 			isa = PBXGroup;
 			children = (
+				0F3839881CB7936F00C43A9E /* README.md */,
 				0F1321EA1CB77233009161D5 /* PullToRefresh */,
 				0F1321FA1CB7820D009161D5 /* MyTablePagination.h */,
 				0F1321FB1CB7820D009161D5 /* MyTablePagination.m */,
@@ -183,6 +186,7 @@
 				0F1321C21CB76EB7009161D5 /* AppDelegate.m in Sources */,
 				0F1321BF1CB76EB7009161D5 /* main.m in Sources */,
 				0F1321F61CB77233009161D5 /* LSTRefreshHeaderView.m in Sources */,
+				0F3839891CB7936F00C43A9E /* README.md in Sources */,
 				0F3839871CB7921C00C43A9E /* LSTTableViewPagination.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
